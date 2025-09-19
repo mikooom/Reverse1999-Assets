@@ -245,6 +245,18 @@
         "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v1a6_300703_wxk",
         "cubism": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/",
         "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v1a6_300703_wxk_s"
+      },
+      {
+        "id": 300731,
+        "name": "魂灵长青",
+        "nameEng": "The Evergreen Soul",
+        "des": "魂灵长青",
+        "characterSkin": "魂灵长青",
+        "characterSkinNameEng": "The Evergreen Soul",
+        "skinDescription": "当墓碑覆上绿色，生命再一次战胜了命运。",
+        "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a1_300731_wxk",
+        "cubism": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/300731_wxk",
+        "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/300701_weixiukai_s"
       }
     ]
   },
@@ -1152,6 +1164,18 @@
         "characterSkinNameEng": "Bouquet for the Bold",
         "skinDescription": "她相信——疼痛加深是某种好转的迹象。",
         "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/303102_qianboli",
+        "cubism": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/",
+        "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/303101_qianboli_s"
+      },
+      {
+        "id": 303103,
+        "name": "玻璃窗前的梦",
+        "nameEng": "A Dream in Stained Glass",
+        "des": "玻璃窗前的梦",
+        "characterSkin": "玻璃窗前的梦",
+        "characterSkinNameEng": "A Dream in Stained Glass",
+        "skinDescription": "她于月圆时醒来，故事带来了下一次生命。",
+        "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a1_303103_qbl",
         "cubism": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/",
         "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/303101_qianboli_s"
       }
@@ -3263,6 +3287,18 @@
         "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v2a5_307703_bfsg",
         "cubism": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/307703_bfsg",
         "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v1a8_307701_beifangshaoge_s"
+      },
+      {
+        "id": 307704,
+        "name": "魇与夜",
+        "nameEng": "The Nightmare's Trespasser",
+        "des": "魇与夜",
+        "characterSkin": "魇与夜",
+        "characterSkinNameEng": "The Nightmare's Trespasser",
+        "skinDescription": "开枪之前不必祈祷，她已将子弹的轨迹计算万全。",
+        "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a1_307704_bfsg",
+        "cubism": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/307704_bfsg",
+        "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a1_307704_bfsg_s"
       }
     ]
   },
@@ -4301,6 +4337,18 @@
         "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v2a6_311302_alf",
         "cubism": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/311302_alf",
         "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v2a6_311301_alf_s"
+      },
+      {
+        "id": 311303,
+        "name": "意象的欢宴",
+        "nameEng": "A Feast of Imagery",
+        "des": "意象的欢宴",
+        "characterSkin": "意象的欢宴",
+        "characterSkinNameEng": "A Feast of Imagery",
+        "skinDescription": "已死的、濒死的、神经质的、癫狂的……他的创作。",
+        "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a1_311303_alf",
+        "cubism": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/311303_alf",
+        "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a1_311303_alf_s"
       }
     ]
   },
@@ -4733,6 +4781,72 @@
         "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/s01_312402_ksdl",
         "cubism": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/312402_ksdl",
         "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/s01_312401_ksdl_s"
+      }
+    ]
+  },
+  {
+    "id": 3125,
+    "name": "野树莓",
+    "nameEng": "Rubuska",
+    "roleBirthday": "5/29",
+    "signature": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/singlebg/signature/3125.png",
+    "live2d": [
+      {
+        "id": 312501,
+        "name": "野树莓",
+        "nameEng": "Rubuska",
+        "des": "初始皮肤",
+        "characterSkin": "",
+        "characterSkinNameEng": "",
+        "skinDescription": "她！就是伟大的野树莓一世！",
+        "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a1_312501_ysm",
+        "cubism": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/312501_ysm",
+        "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a1_312501_ysm_s"
+      },
+      {
+        "id": 312502,
+        "name": "野树莓",
+        "nameEng": "Rubuska",
+        "des": "进阶皮肤",
+        "characterSkin": "魔笛手之梦",
+        "characterSkinNameEng": "The Piper's Dream",
+        "skinDescription": "她回味着那个温暖的梦，在日出之前。",
+        "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a1_312502_ysm",
+        "cubism": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/312502_ysm",
+        "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a1_312501_ysm_s"
+      }
+    ]
+  },
+  {
+    "id": 3132,
+    "name": "告死鸟",
+    "nameEng": "Corvus",
+    "roleBirthday": "8/2",
+    "signature": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/singlebg/signature/3132.png",
+    "live2d": [
+      {
+        "id": 313201,
+        "name": "告死鸟",
+        "nameEng": "Corvus",
+        "des": "初始皮肤",
+        "characterSkin": "",
+        "characterSkinNameEng": "",
+        "skinDescription": "足音与秒针声从不停歇。",
+        "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a1_313201_gsn",
+        "cubism": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/313201_gsn",
+        "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a1_313201_gsn_s"
+      },
+      {
+        "id": 313202,
+        "name": "告死鸟",
+        "nameEng": "Corvus",
+        "des": "进阶皮肤",
+        "characterSkin": "编织一寸温暖",
+        "characterSkinNameEng": "The Warmth She Knitted",
+        "skinDescription": "一颗炽热的心，在霜雪披覆之下。",
+        "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a1_313202_gsn",
+        "cubism": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/313202_gsn",
+        "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a1_313201_gsn_s"
       }
     ]
   }

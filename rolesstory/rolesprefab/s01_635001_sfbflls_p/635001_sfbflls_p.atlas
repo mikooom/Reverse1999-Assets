@@ -55,7 +55,7 @@ L_eye_01
   index: -1
 L_eye_01_BS
   rotate: false
-  xy: 869, 101
+  xy: 722, 8
   size: 26, 21
   orig: 26, 22
   offset: 0, 0
@@ -146,7 +146,7 @@ L_eye_bai_SX
   index: -1
 L_eye_meimao
   rotate: false
-  xy: 237, 17
+  xy: 62, 14
   size: 54, 4
   orig: 56, 17
   offset: 1, 1
@@ -167,7 +167,7 @@ L_eye_meimao_CJ
   index: -1
 L_eye_meimao_HQ
   rotate: false
-  xy: 6, 13
+  xy: 312, 12
   size: 56, 5
   orig: 65, 18
   offset: 8, 1
@@ -594,7 +594,7 @@ Rhand_BX03
   index: -1
 bizui_shangxin
   rotate: false
-  xy: 201, 10
+  xy: 276, 8
   size: 30, 13
   orig: 30, 13
   offset: 0, 0
@@ -734,7 +734,7 @@ j_bs_hdjz
   index: -1
 j_bs_zszd
   rotate: false
-  xy: 735, 11
+  xy: 687, 9
   size: 29, 20
   orig: 29, 20
   offset: 0, 0
@@ -755,10 +755,10 @@ j_faqian
   index: -1
 j_hqbi
   rotate: false
-  xy: 715, 37
-  size: 55, 20
-  orig: 55, 20
-  offset: 0, 0
+  xy: 240, 7
+  size: 30, 14
+  orig: 44, 16
+  offset: 4, 0
   index: -1
 j_hua
   rotate: 270
@@ -769,17 +769,38 @@ j_hua
   index: -1
 j_kxbi
   rotate: false
-  xy: 687, 15
-  size: 42, 16
-  orig: 42, 16
+  xy: 201, 10
+  size: 33, 13
+  orig: 33, 13
+  offset: 0, 0
+  index: -1
+j_nanguo
+  rotate: false
+  xy: 708, 1312
+  size: 21, 13
+  orig: 21, 13
   offset: 0, 0
   index: -1
 j_ngbi
   rotate: false
-  xy: 68, 8
-  size: 31, 11
-  orig: 31, 11
+  xy: 160, 836
+  size: 24, 8
+  orig: 24, 8
   offset: 0, 0
+  index: -1
+j_nnaguom1
+  rotate: false
+  xy: 6, 11
+  size: 50, 7
+  orig: 53, 8
+  offset: 3, 1
+  index: -1
+j_nnaguom2
+  rotate: false
+  xy: 715, 35
+  size: 49, 22
+  orig: 58, 33
+  offset: 0, 2
   index: -1
 j_qunb
   rotate: 180

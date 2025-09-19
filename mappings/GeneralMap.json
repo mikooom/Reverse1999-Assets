@@ -4382,5 +4382,101 @@
     "des": "",
     "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/s01_640403_aebtsf",
     "headIcon": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/singlebg/headicon_monster/640403.png"
+  },
+  {
+    "id": 610412,
+    "name": "鲍里斯（一阶段）",
+    "nameEng": "",
+    "des": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a1_610412_bls",
+    "headIcon": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/singlebg/headicon_monster/610412.png"
+  },
+  {
+    "id": 610413,
+    "name": "鲍里斯（二阶段）",
+    "nameEng": "",
+    "des": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a1_610413_bls",
+    "headIcon": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/singlebg/headicon_monster/610413.png"
+  },
+  {
+    "id": 640147,
+    "name": "\t车站驻军",
+    "nameEng": "",
+    "des": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a1_640147_czzb",
+    "headIcon": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/singlebg/headicon_monster/640147.png"
+  },
+  {
+    "id": 640148,
+    "name": "\t车站驻军持铲版",
+    "nameEng": "",
+    "des": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a1_640148_czzjccb",
+    "headIcon": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/singlebg/headicon_monster/640148.png"
+  },
+  {
+    "id": 670145,
+    "name": "\t感染种乘客1",
+    "nameEng": "",
+    "des": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a1_670145_grzck1",
+    "headIcon": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/singlebg/headicon_monster/670145.png"
+  },
+  {
+    "id": 670146,
+    "name": "感染种乘客2",
+    "nameEng": "",
+    "des": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a1_670146_grzck",
+    "headIcon": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/singlebg/headicon_monster/670146.png"
+  },
+  {
+    "id": 670148,
+    "name": "感染种持铲士兵",
+    "nameEng": "",
+    "des": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a1_670148_grzccsb",
+    "headIcon": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/singlebg/headicon_monster/670148.png"
+  },
+  {
+    "id": 670147,
+    "name": "感染种士兵",
+    "nameEng": "",
+    "des": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a1_670147_grzsb",
+    "headIcon": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/singlebg/headicon_monster/670147.png"
+  },
+  {
+    "id": 670149,
+    "name": "过去之影",
+    "nameEng": "",
+    "des": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a1_670149_bqzy",
+    "headIcon": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/singlebg/headicon_monster/670149.png"
+  },
+  {
+    "id": 640150,
+    "name": "持刀边防士兵",
+    "nameEng": "",
+    "des": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a1_640150_cdbfsb",
+    "headIcon": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/singlebg/headicon_monster/640150.png"
+  },
+  {
+    "id": 640149,
+    "name": "持枪边防士兵",
+    "nameEng": "",
+    "des": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a1_640149_cqbfsb",
+    "headIcon": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/singlebg/headicon_monster/640149.png"
+  },
+  {
+    "id": 670407,
+    "name": "尤利西斯",
+    "nameEng": "",
+    "des": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a1_670407_msh500m",
+    "headIcon": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/singlebg/headicon_monster/670407.png"
   }
 ]
