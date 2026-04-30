@@ -4630,5 +4630,413 @@
     "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/rolesstory/rolesprefab/303201_baifuzhang_p",
     "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/Assets/ZResourcesLib/rolesstory/rolesprefab/303201_baifuzhang_p",
     "desc": "百夫长坐姿"
+  },
+  {
+    "id": 3601,
+    "name": "哑谜",
+    "nameEng": "Enigma",
+    "spine": "",
+    "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/v3a6_314301_yami",
+    "desc": "初始"
+  },
+  {
+    "id": 3602,
+    "name": "哑谜",
+    "nameEng": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/rolesstory/rolesprefab/v3a6_648001_ymzpxr_p",
+    "alternateSpine": "",
+    "desc": "小黑人"
+  },
+  {
+    "id": 3603,
+    "name": "“霍夫曼”",
+    "nameEng": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/rolesstory/rolesprefab/v3a6_648301_hfmzpxr_p",
+    "alternateSpine": "",
+    "desc": "小黑人"
+  },
+  {
+    "id": 3604,
+    "name": "乌尔里希",
+    "nameEng": "Ulrich",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/rolesstory/rolesprefab/v3a6_648101_welxzpxr_p",
+    "alternateSpine": "",
+    "desc": "小黑人"
+  },
+  {
+    "id": 3605,
+    "name": "马库斯",
+    "nameEng": "Marcus",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/rolesstory/rolesprefab/v3a6_648201_mkszpxr_p",
+    "alternateSpine": "",
+    "desc": "小黑人"
+  },
+  {
+    "id": 3606,
+    "name": "路德维希",
+    "nameEng": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/rolesstory/rolesprefab/v3a6_648401_ldwxzpxr_p",
+    "alternateSpine": "",
+    "desc": "小黑人"
+  },
+  {
+    "id": 3607,
+    "name": "大路人",
+    "nameEng": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/rolesstory/rolesprefab/v3a6_648501_lrzpxr_p",
+    "alternateSpine": "",
+    "desc": "小黑人"
+  },
+  {
+    "id": 3608,
+    "name": "海滩动画",
+    "nameEng": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/rolesstory/rolesprefab/v3a6_650002_wjxhtdh_p",
+    "alternateSpine": "",
+    "desc": ""
+  },
+  {
+    "id": 3609,
+    "name": "阿德勒",
+    "nameEng": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/rolesstory/rolesprefab/v3a6_648703_adl_p",
+    "alternateSpine": "",
+    "desc": ""
+  },
+  {
+    "id": 3610,
+    "name": "格蕾塔",
+    "nameEng": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/rolesstory/rolesprefab/v3a6_648802_glt_p",
+    "alternateSpine": "",
+    "desc": ""
+  },
+  {
+    "id": 3611,
+    "name": "草丛动画",
+    "nameEng": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/rolesstory/rolesprefab/v3a6_649501_ccdh_p",
+    "alternateSpine": "",
+    "desc": ""
+  },
+  {
+    "id": 3612,
+    "name": "杀人狂动画",
+    "nameEng": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/rolesstory/rolesprefab/v3a6_650902_srk_p",
+    "alternateSpine": "",
+    "desc": ""
+  },
+  {
+    "id": 3613,
+    "name": "齿轮转动动画",
+    "nameEng": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/rolesstory/rolesprefab/v3a6_649902_clzddh_p",
+    "alternateSpine": "",
+    "desc": ""
+  },
+  {
+    "id": 3614,
+    "name": "原野动画1",
+    "nameEng": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/rolesstory/rolesprefab/v3a6_649601_cydh1_p",
+    "alternateSpine": "",
+    "desc": ""
+  },
+  {
+    "id": 3615,
+    "name": "原野动画2",
+    "nameEng": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/rolesstory/rolesprefab/v3a6_649702_cydh2_p",
+    "alternateSpine": "",
+    "desc": ""
+  },
+  {
+    "id": 3616,
+    "name": "原野动画3",
+    "nameEng": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/rolesstory/rolesprefab/v3a6_649802_cydh3_p",
+    "alternateSpine": "",
+    "desc": ""
+  },
+  {
+    "id": 3617,
+    "name": "月亮动画",
+    "nameEng": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/rolesstory/rolesprefab/v3a6_651602_yldh_p",
+    "alternateSpine": "",
+    "desc": ""
+  },
+  {
+    "id": 3618,
+    "name": "小路人",
+    "nameEng": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/rolesstory/rolesprefab/v3a6_648501_lrzpxr_p",
+    "alternateSpine": "",
+    "desc": "小黑人"
+  },
+  {
+    "id": 3619,
+    "name": "小月亮",
+    "nameEng": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/rolesstory/rolesprefab/v3a6_651602_yldh_p",
+    "alternateSpine": "",
+    "desc": ""
+  },
+  {
+    "id": 3620,
+    "name": "杀人狂眼睛",
+    "nameEng": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/rolesstory/rolesprefab/v3a6_650902_srk_p",
+    "alternateSpine": "",
+    "desc": ""
+  },
+  {
+    "id": 3621,
+    "name": "玛格丽特",
+    "nameEng": "",
+    "spine": "",
+    "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/v3a5_313902_llzhd",
+    "desc": "进阶无匣子"
+  },
+  {
+    "id": 3701,
+    "name": "秘书长",
+    "nameEng": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/rolesstory/rolesprefab/v3a7_532103_msz_p",
+    "alternateSpine": "",
+    "desc": ""
+  },
+  {
+    "id": 3702,
+    "name": "会长",
+    "nameEng": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/rolesstory/rolesprefab/v3a7_509005_hz_p",
+    "alternateSpine": "",
+    "desc": ""
+  },
+  {
+    "id": 3703,
+    "name": "拉文德",
+    "nameEng": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/rolesstory/rolesprefab/v3a7_532203_lwd_p",
+    "alternateSpine": "",
+    "desc": ""
+  },
+  {
+    "id": 3704,
+    "name": "艾米莉亚",
+    "nameEng": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/rolesstory/rolesprefab/v3a7_532503_amly_p",
+    "alternateSpine": "",
+    "desc": ""
+  },
+  {
+    "id": 3705,
+    "name": "卢卡斯",
+    "nameEng": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/rolesstory/rolesprefab/v3a7_532402_lks_p",
+    "alternateSpine": "",
+    "desc": ""
+  },
+  {
+    "id": 3706,
+    "name": "小梅蕾尔",
+    "nameEng": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/rolesstory/rolesprefab/v3a7_532303_xmle_p",
+    "alternateSpine": "",
+    "desc": ""
+  },
+  {
+    "id": 3707,
+    "name": "J",
+    "nameEng": "Joe",
+    "spine": "",
+    "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/v3a0_309403_j",
+    "desc": "J基金会皮肤"
+  },
+  {
+    "id": 3708,
+    "name": "绀紫腕",
+    "nameEng": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/rolesstory/rolesprefab/v3a7_532603_gzw_p",
+    "alternateSpine": "",
+    "desc": ""
+  },
+  {
+    "id": 3709,
+    "name": "小春雀儿",
+    "nameEng": "Eagle",
+    "spine": "",
+    "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/v3a7_315401_spxcqe",
+    "desc": ""
+  },
+  {
+    "id": 3710,
+    "name": "小瑞安侬",
+    "nameEng": "Rhiannon",
+    "spine": "",
+    "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/v3a7_314601_xran",
+    "desc": ""
+  },
+  {
+    "id": 3711,
+    "name": "无名者",
+    "nameEng": "Ms. Stranger",
+    "spine": "",
+    "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/v3a7_314701_wmz",
+    "desc": "无名者初始"
+  },
+  {
+    "id": 3712,
+    "name": "无名者",
+    "nameEng": "Ms. Stranger",
+    "spine": "",
+    "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/v3a7_314702_wmz",
+    "desc": "无名者进阶"
+  },
+  {
+    "id": 3713,
+    "name": "梅蕾尔",
+    "nameEng": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/rolesstory/rolesprefab/v3a7_533501_yqmle_p",
+    "alternateSpine": "",
+    "desc": "雨前梅蕾尔"
+  },
+  {
+    "id": 3714,
+    "name": "梅蕾尔",
+    "nameEng": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/rolesstory/rolesprefab/v3a7_536203_zsmle_p",
+    "alternateSpine": "",
+    "desc": "战损梅蕾尔"
+  },
+  {
+    "id": 3715,
+    "name": "梅雷尔",
+    "nameEng": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/rolesstory/rolesprefab/v3a7_533502_yqmle_p",
+    "alternateSpine": "",
+    "desc": "主页交互专用大头"
+  },
+  {
+    "id": 3716,
+    "name": "梅雷尔",
+    "nameEng": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/rolesstory/rolesprefab/v3a7_533501_yqmle_p",
+    "alternateSpine": "",
+    "desc": "主页交互专用"
+  },
+  {
+    "id": 3717,
+    "name": "？？？",
+    "nameEng": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/rolesstory/rolesprefab/v3a7_533803_wmzsss_p",
+    "alternateSpine": "",
+    "desc": ""
+  },
+  {
+    "id": 3718,
+    "name": "“莉莉”",
+    "nameEng": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/rolesstory/rolesprefab/v3a7_533903_wmzsss2_p",
+    "alternateSpine": "",
+    "desc": ""
+  },
+  {
+    "id": 3719,
+    "name": "金伯利女郎",
+    "nameEng": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/rolesstory/rolesprefab/v2a0_625501_tsnn_p",
+    "alternateSpine": "",
+    "desc": ""
+  },
+  {
+    "id": 3720,
+    "name": "无名者",
+    "nameEng": "Ms. Stranger",
+    "spine": "",
+    "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/v3a7_314701_wmz",
+    "desc": "面具版"
+  },
+  {
+    "id": 3721,
+    "name": "格林杜尔",
+    "nameEng": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/rolesstory/rolesprefab/v3a7_535003_glde_p",
+    "alternateSpine": "",
+    "desc": ""
+  },
+  {
+    "id": 3722,
+    "name": "小瑞安侬",
+    "nameEng": "Rhiannon",
+    "spine": "",
+    "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/v3a7_314601_xran",
+    "desc": "无鸟版"
+  },
+  {
+    "id": 3723,
+    "name": "阿德琳",
+    "nameEng": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/rolesstory/rolesprefab/v3a7_533703_adl_p",
+    "alternateSpine": "",
+    "desc": ""
+  },
+  {
+    "id": 3724,
+    "name": "帕拉维扬",
+    "nameEng": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/rolesstory/rolesprefab/v3a7_526303_plwy_p",
+    "alternateSpine": "",
+    "desc": ""
+  },
+  {
+    "id": 3725,
+    "name": "欧文夫人",
+    "nameEng": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/rolesstory/rolesprefab/v3a1_637901_sny_p",
+    "alternateSpine": "",
+    "desc": ""
+  },
+  {
+    "id": 3726,
+    "name": "十四行诗",
+    "nameEng": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/rolesstory/rolesprefab/507201_xsshs12_p",
+    "alternateSpine": "",
+    "desc": "12岁小十四右侧板"
+  },
+  {
+    "id": 3727,
+    "name": "歌唱家",
+    "nameEng": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/rolesstory/rolesprefab/v3a7_536302_gcj_p",
+    "alternateSpine": "",
+    "desc": ""
+  },
+  {
+    "id": 3728,
+    "name": "苦蜜井",
+    "nameEng": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/rolesstory/rolesprefab/v3a7_535202_kmj_p",
+    "alternateSpine": "",
+    "desc": ""
+  },
+  {
+    "id": 3729,
+    "name": "珐琅眼",
+    "nameEng": "",
+    "spine": "",
+    "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/v3a7_314401_fly",
+    "desc": "珐琅眼L2D"
+  },
+  {
+    "id": 3730,
+    "name": "蜂鸟",
+    "nameEng": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/rolesstory/rolesprefab/v3a5_641604_mle_p",
+    "alternateSpine": "",
+    "desc": "重塑之手蜂鸟"
   }
 ]

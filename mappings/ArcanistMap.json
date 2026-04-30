@@ -2852,6 +2852,18 @@
         "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v2a2_306604_37",
         "cubism": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/306604_37",
         "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v2a2_306604_37_s"
+      },
+      {
+        "id": 306605,
+        "name": "完美的流体",
+        "nameEng": "",
+        "des": "",
+        "characterSkin": "完美的流体",
+        "characterSkinNameEng": "A Gift of Nourishment",
+        "skinDescription": "牛奶在复杂曲面上流动的微分方程，这将是她的下一个课题。",
+        "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a7_306605_37",
+        "cubism": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/306605_37",
+        "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v1a4_306601_37_s"
       }
     ]
   },
@@ -2966,6 +2978,18 @@
         "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v2a0_307303_krd",
         "cubism": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/307303_kerandian",
         "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v2a0_307303_krd_s"
+      },
+      {
+        "id": 307304,
+        "name": "火芙蕖",
+        "nameEng": "",
+        "des": "",
+        "characterSkin": "火芙蕖",
+        "characterSkinNameEng": "Fire Lotus",
+        "skinDescription": "幻人振衣星火落，余烬翻飞新萼还。",
+        "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a7_307304_krd",
+        "cubism": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/307304_krd",
+        "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v1a5_307301_kerandian_s"
       }
     ]
   },
@@ -3637,7 +3661,7 @@
         "id": 308004,
         "name": "时代病陪护",
         "nameEng": "",
-        "des": "",
+        "des": "时代病陪护",
         "characterSkin": "时代病陪护",
         "characterSkinNameEng": "Guardian of the Broken",
         "skinDescription": "她不顾一切地伸出援手，尽管啊，尽管。",
@@ -4025,6 +4049,18 @@
         "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v2a2_310102_bailangmu",
         "cubism": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/",
         "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v2a2_310101_bailangmu_s"
+      },
+      {
+        "id": 310103,
+        "name": "寰宇行舟",
+        "nameEng": "",
+        "des": "",
+        "characterSkin": "寰宇行舟",
+        "characterSkinNameEng": "Sailing Around the World",
+        "skinDescription": "她的尾焰将要比肩流星。",
+        "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a6_310103_blm",
+        "cubism": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/",
+        "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v2a2_310101_bailangmu_s"
       }
     ]
   },
@@ -4328,6 +4364,18 @@
         "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v2a7_310903_ttsz",
         "cubism": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/310903_ttsz",
         "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v2a4_310901_ttsz_s"
+      },
+      {
+        "id": 310905,
+        "name": "故梦罅隙间",
+        "nameEng": "",
+        "des": "",
+        "characterSkin": "故梦罅隙间",
+        "characterSkinNameEng": "Fragments of An Old Dream",
+        "skinDescription": "所有那些久久跋涉的碎片，终有归途。",
+        "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a7_310905_ttsz",
+        "cubism": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/310905_ttsz",
+        "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a7_310905_ttsz_s"
       }
     ]
   },
@@ -4496,6 +4544,18 @@
         "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v2a8_311403_xgj",
         "cubism": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/311403_xgj",
         "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v2a8_311403_xgj_s"
+      },
+      {
+        "id": 311404,
+        "name": "文字，自始至终",
+        "nameEng": "",
+        "des": "",
+        "characterSkin": "文字，自始至终",
+        "characterSkinNameEng": "The Weight of Words",
+        "skinDescription": "作品并非完成于作者搁笔的一刻，而是完成于翻开书页的瞬间。",
+        "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a6_311404_xgj",
+        "cubism": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/311404_xgj",
+        "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v2a6_311401_xgj_s"
       }
     ]
   },
@@ -4676,6 +4736,18 @@
         "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v2a7_311802_mmr",
         "cubism": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/311802_mmr",
         "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v2a7_311801_mmr_s"
+      },
+      {
+        "id": 311803,
+        "name": "永恒的沉默",
+        "nameEng": "",
+        "des": "",
+        "characterSkin": "永恒的沉默",
+        "characterSkinNameEng": "The Deathless Quiet",
+        "skinDescription": "在广袤的寂静中，凡人得赐爱与相认的权力。",
+        "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a7_311803_mmr",
+        "cubism": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/311803_mmr",
+        "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v2a7_311801_mmr_s"
       }
     ]
   },
@@ -4787,6 +4859,18 @@
         "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v2a8_312002_ndk",
         "cubism": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/312002_ndk",
         "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v2a8_312001_ndk_s"
+      },
+      {
+        "id": 312003,
+        "name": "名以光辉",
+        "nameEng": "",
+        "des": "",
+        "characterSkin": "名以光辉",
+        "characterSkinNameEng": "From Darkness, Light",
+        "skinDescription": "或许历经遗忘的苦旅，生命仍为我们留有馈赠。",
+        "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a7_312003_ndk",
+        "cubism": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/312003_ndk",
+        "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a7_312003_ndk_s"
       }
     ]
   },
@@ -4909,6 +4993,18 @@
         "skinDescription": "生的阴影、死的记忆，于冥河中独行。",
         "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a0_312802_kr",
         "cubism": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/312802_kr",
+        "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a0_312801_kr_s"
+      },
+      {
+        "id": 312803,
+        "name": "亡者的恩赐",
+        "nameEng": "",
+        "des": "",
+        "characterSkin": "亡者的恩赐",
+        "characterSkinNameEng": "Gift of the Dead",
+        "skinDescription": "北风拂过幽冥的死地，而他以羽翼为缰绳。",
+        "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a7_312803_kr",
+        "cubism": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/312803_kr",
         "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a0_312801_kr_s"
       }
     ]
@@ -5198,6 +5294,18 @@
         "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a3_312702_mes",
         "cubism": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/312702_mes",
         "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a3_312701_mes_s"
+      },
+      {
+        "id": 312703,
+        "name": "不熄的怀抱",
+        "nameEng": "",
+        "des": "",
+        "characterSkin": "不熄的怀抱",
+        "characterSkinNameEng": "The Ever-Burning Embrace",
+        "skinDescription": "以一缕光的易逝，对抗黑暗的永恒。",
+        "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a6_312703_mes",
+        "cubism": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/312703_mes",
+        "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a6_312703_mes_s"
       }
     ]
   },
@@ -5429,6 +5537,183 @@
         "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a5_313602_hbdnr",
         "cubism": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/",
         "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a5_313601_hbdnr_s"
+      }
+    ]
+  },
+  {
+    "id": 3143,
+    "name": "哑谜",
+    "nameEng": "Enigma",
+    "roleBirthday": "10/16",
+    "signature": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/singlebg/signature/3143.png",
+    "live2d": [
+      {
+        "id": 314301,
+        "name": "哑谜",
+        "nameEng": "",
+        "des": "",
+        "characterSkin": "",
+        "characterSkinNameEng": "",
+        "skinDescription": "世界先于理性崩塌，而后疑问将至。",
+        "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a6_314301_ym",
+        "cubism": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/314301_yami",
+        "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a6_314301_ym_s"
+      },
+      {
+        "id": 314302,
+        "name": "哑谜",
+        "nameEng": "",
+        "des": "",
+        "characterSkin": "填空题",
+        "characterSkinNameEng": "Cloze Testing",
+        "skinDescription": "执着于一个“明天”的答案。",
+        "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a6_314302_ym",
+        "cubism": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/314302_yami",
+        "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a6_314301_ym_s"
+      }
+    ]
+  },
+  {
+    "id": 3146,
+    "name": "小瑞安侬",
+    "nameEng": "Rhiannon",
+    "roleBirthday": "3/1",
+    "signature": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/singlebg/signature/3146.png",
+    "live2d": [
+      {
+        "id": 314601,
+        "name": "小瑞安侬",
+        "nameEng": "",
+        "des": "",
+        "characterSkin": "",
+        "characterSkinNameEng": "",
+        "skinDescription": "她托举雏鸟，同时锻炼自我。",
+        "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a7_314601_xran",
+        "cubism": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/314601_xran",
+        "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a7_314601_xran_s"
+      },
+      {
+        "id": 314602,
+        "name": "小瑞安侬",
+        "nameEng": "",
+        "des": "",
+        "characterSkin": "心灵迁徙",
+        "characterSkinNameEng": "The Migration of Her Heart",
+        "skinDescription": "需以一场伟大旅途纪念丰满的羽翼。",
+        "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a7_314602_xran",
+        "cubism": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/314602_xran",
+        "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a7_314601_xran_s"
+      }
+    ]
+  },
+  {
+    "id": 3147,
+    "name": "无名者",
+    "nameEng": "Ms. Stranger",
+    "roleBirthday": "4/13",
+    "signature": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/singlebg/signature/3147.png",
+    "live2d": [
+      {
+        "id": 314701,
+        "name": "无名者",
+        "nameEng": "",
+        "des": "",
+        "characterSkin": "",
+        "characterSkinNameEng": "",
+        "skinDescription": "关上灯，静听，黑暗中，追求光的破碎声。",
+        "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a7_314701_wmz",
+        "cubism": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/314701_wmz",
+        "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a7_314701_wmz_s"
+      },
+      {
+        "id": 314702,
+        "name": "无名者",
+        "nameEng": "",
+        "des": "",
+        "characterSkin": "无尽且唯一的路",
+        "characterSkinNameEng": "Down a Dark Path",
+        "skinDescription": "仍在向死而行。但仅此一次，得以独享。",
+        "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a7_314702_wmz",
+        "cubism": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/314702_wmz",
+        "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a7_314701_wmz_s"
+      }
+    ]
+  },
+  {
+    "id": 3154,
+    "name": "银装小春雀儿",
+    "nameEng": "Silverwing Eagle",
+    "roleBirthday": "7/21",
+    "signature": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/singlebg/signature/3154.png",
+    "live2d": [
+      {
+        "id": 315401,
+        "name": "银装小春雀儿",
+        "nameEng": "",
+        "des": "",
+        "characterSkin": "",
+        "characterSkinNameEng": "",
+        "skinDescription": "一二三，列队，立正！采集数据！",
+        "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a7_315401_yzxcqe",
+        "cubism": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/315401_spxcqe",
+        "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a7_315401_yzxcqe_s"
+      },
+      {
+        "id": 315402,
+        "name": "银装小春雀儿",
+        "nameEng": "",
+        "des": "",
+        "characterSkin": "科学地成为科学家",
+        "characterSkinNameEng": "Becoming a Scientist, Scientifically",
+        "skinDescription": "小小观测者，小小变量。",
+        "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a7_315402_yzxcqe",
+        "cubism": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/315402_spxcqe",
+        "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a7_315401_yzxcqe_s"
+      }
+    ]
+  },
+  {
+    "id": 3144,
+    "name": "珐琅眼",
+    "nameEng": "Coppélia",
+    "roleBirthday": "4/11",
+    "signature": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/singlebg/signature/3144.png",
+    "live2d": [
+      {
+        "id": 314401,
+        "name": "珐琅眼",
+        "nameEng": "",
+        "des": "",
+        "characterSkin": "",
+        "characterSkinNameEng": "",
+        "skinDescription": "注意分清她和胡桃夹子。",
+        "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a7_314401_fly",
+        "cubism": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/314401_fly",
+        "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a7_314401_fly_s"
+      },
+      {
+        "id": 314402,
+        "name": "珐琅眼",
+        "nameEng": "",
+        "des": "",
+        "characterSkin": "自鸣乐器之歌",
+        "characterSkinNameEng": "Song of the Self-Playing Instrument",
+        "skinDescription": "你听到乐器唱歌了吗？那是首关于自我的歌。",
+        "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a7_314402_fly",
+        "cubism": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/314402_fly",
+        "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a7_314401_fly_s"
+      },
+      {
+        "id": 314403,
+        "name": "醒时声",
+        "nameEng": "",
+        "des": "",
+        "characterSkin": "醒时声",
+        "characterSkinNameEng": "Sounds that Wake Her",
+        "skinDescription": "与它告别吧，那迷路时一再跌宕的呜咽回声。",
+        "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a7_314403_fly",
+        "cubism": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/314403_fly",
+        "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a7_314403_fly_s"
       }
     ]
   }

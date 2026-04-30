@@ -5006,5 +5006,189 @@
     "des": "",
     "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a5_670168_mlemf2",
     "headIcon": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/singlebg/headicon_monster/670168.png"
+  },
+  {
+    "id": 670310,
+    "name": "流逝的沉眠",
+    "nameEng": "",
+    "des": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a6_670310_lsdcm",
+    "headIcon": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/singlebg/headicon_monster/670310.png"
+  },
+  {
+    "id": 630129,
+    "name": "转子造物",
+    "nameEng": "",
+    "des": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a6_630129_zzzw",
+    "headIcon": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/singlebg/headicon_monster/630129.png"
+  },
+  {
+    "id": 620231,
+    "name": "纸片卡邦克鲁之主",
+    "nameEng": "",
+    "des": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a6_620231_zpkbklzz",
+    "headIcon": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/singlebg/headicon_monster/620231.png"
+  },
+  {
+    "id": 630128,
+    "name": "语言异化者",
+    "nameEng": "",
+    "des": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a6_630128_yyyhz",
+    "headIcon": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/singlebg/headicon_monster/630128.png"
+  },
+  {
+    "id": 630307,
+    "name": "路德维希渡鸦",
+    "nameEng": "",
+    "des": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a6_630307_ldwxdy",
+    "headIcon": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/singlebg/headicon_monster/630307.png"
+  },
+  {
+    "id": 670312,
+    "name": "重塑管风琴",
+    "nameEng": "",
+    "des": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a6_670312_zsgfq",
+    "headIcon": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/singlebg/headicon_monster/670312.png"
+  },
+  {
+    "id": 610414,
+    "name": "神秘学嫡子",
+    "nameEng": "",
+    "des": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a7_610414_smxjdz1",
+    "headIcon": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/singlebg/headicon_monster/610414.png"
+  },
+  {
+    "id": 610415,
+    "name": "神秘学嫡子二阶段",
+    "nameEng": "",
+    "des": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/roles_3d",
+    "headIcon": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/singlebg/headicon_monster/610415.png"
+  },
+  {
+    "id": 610416,
+    "name": "神秘学嫡子三阶段",
+    "nameEng": "",
+    "des": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/roles_3d",
+    "headIcon": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/singlebg/headicon_monster/610416.png"
+  },
+  {
+    "id": 630228,
+    "name": "同步迎宾士",
+    "nameEng": "",
+    "des": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a7_630228_tbybs",
+    "headIcon": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/singlebg/headicon_monster/630228.png"
+  },
+  {
+    "id": 630130,
+    "name": "同步吟游者",
+    "nameEng": "",
+    "des": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a7_630130_tbyyz",
+    "headIcon": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/singlebg/headicon_monster/630130.png"
+  },
+  {
+    "id": 630131,
+    "name": "同步喧嚣手",
+    "nameEng": "",
+    "des": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a7_630131_tbxxs",
+    "headIcon": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/singlebg/headicon_monster/630131.png"
+  },
+  {
+    "id": 630132,
+    "name": "同步和声",
+    "nameEng": "",
+    "des": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a7_630132_tbhs",
+    "headIcon": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/singlebg/headicon_monster/630132.png"
+  },
+  {
+    "id": 630229,
+    "name": "普纽玛",
+    "nameEng": "",
+    "des": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a7_630229_pnm",
+    "headIcon": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/singlebg/headicon_monster/630229.png"
+  },
+  {
+    "id": 630133,
+    "name": "首席鼓槌手",
+    "nameEng": "",
+    "des": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a7_630133_sxgcs",
+    "headIcon": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/singlebg/headicon_monster/630133.png"
+  },
+  {
+    "id": 630134,
+    "name": "卢卡斯",
+    "nameEng": "",
+    "des": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a7_630134_lks",
+    "headIcon": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/singlebg/headicon_monster/630134.png"
+  },
+  {
+    "id": 630135,
+    "name": "艾米莉亚",
+    "nameEng": "",
+    "des": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a7_630135_amly",
+    "headIcon": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/singlebg/headicon_monster/630135.png"
+  },
+  {
+    "id": 610307,
+    "name": "筹宴者",
+    "nameEng": "",
+    "des": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a7_610307_cyz",
+    "headIcon": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/singlebg/headicon_monster/610307.png"
+  },
+  {
+    "id": 610308,
+    "name": "战损筹宴者",
+    "nameEng": "",
+    "des": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a7_610308_zscyz",
+    "headIcon": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/singlebg/headicon_monster/610308.png"
+  },
+  {
+    "id": 630136,
+    "name": "首席敲击手",
+    "nameEng": "",
+    "des": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a7_630136_sxqjs",
+    "headIcon": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/singlebg/headicon_monster/630137.png"
+  },
+  {
+    "id": 670410,
+    "name": "黄金国遗骸",
+    "nameEng": "",
+    "des": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a7_670410_hjgyh",
+    "headIcon": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/singlebg/headicon_monster/670410.png"
+  },
+  {
+    "id": 670313,
+    "name": "雨林断头台",
+    "nameEng": "",
+    "des": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a7_670313_yldtt",
+    "headIcon": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/singlebg/headicon_monster/670313.png"
+  },
+  {
+    "id": 630138,
+    "name": "火渡船",
+    "nameEng": "",
+    "des": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a7_630138_hdchp",
+    "headIcon": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/singlebg/headicon_monster/630138.png"
   }
 ]
